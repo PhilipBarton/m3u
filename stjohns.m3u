@@ -1,4 +1,6 @@
 #EXTM3U 
+#EXTINF: -1 sportsnet Ontario 
+http://139.59.158.92:8567/sports2020/sportnetontario/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDIwIDg6MzQ6MzUgUE0maGFzaF92YWx1ZT15VGdMMlJQMHhrWXhwYUhNdVJQZDB3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF: -1 tvg-id="CBC News Network" tvg-chno="1" tvg-logo="https://i.imgur.com/UPhXZbY.png" group-title="News", CBC News Network
 https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
 #EXTINF: -1 tvg-id="timesnow.uk" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Screenshot_1-8.png" group-title="News", Times Now HD

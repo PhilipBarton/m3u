@@ -33,7 +33,7 @@ https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8?iu=/8264/vaw-can/desktop/
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" group-title="News", ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF: -1 tvg-id="bbcparliament.uk" tvg-name="UK: BBC Parliament" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/200px-BBC_Parliament_Logo.svg.png" group-title="News", BBC Parliament (SD)
+#EXTINF: -1 tvg-id="bbcparliament.uk" tvg-name="UK: BBC Parliament" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/200px-BBC_Parliament_Logo.svg.png" group-title="News", BBC Parliament 
 http://iptv1.privateiptv.club:80/random-robbie/random-robbie/827
 #EXTINF: -1 tvg-id="news18.ca" tvg-chno="30" group-title="News", ATN News
 https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
@@ -87,9 +87,9 @@ http://live.realiptv.to:25461/lauren/lauren/3140
 https://buzzrota-web.amagi.tv/playlist480.m3u8
 #EXTINF: -1 tvg-id="bbcalba.uk" tvg-name="UK: BBC ALBA (SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/BBC_Alba.png" group-title="Entertainment", BBC ALBA (SD)
 http://iptv1.privateiptv.club:80/random-robbie/random-robbie/828
-#EXTINF: -1 tvg-id="bbcfour.uk" tvg-name="UK: BBC Four (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/1200px-BBC_Four.svg.png" group-title="Entertainment", BBC Four (HD)
+#EXTINF: -1 tvg-id="bbcfour.uk" tvg-name="BBC Four" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/1200px-BBC_Four.svg.png" group-title="Entertainment", BBC Four 
 http://iptv1.privateiptv.club:80/random-robbie/random-robbie/819
-#EXTINF: -1 tvg-id="bbconehd.uk" tvg-name="UK: BBC One (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/BBC_One_%282002%29.svg/200px-BBC_One_%282002%29.svg.png" group-title="Entertainment", BBC One (HD)
+#EXTINF: -1 tvg-id="bbconehd.uk" tvg-name=" BBC One " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/BBC_One_%282002%29.svg/200px-BBC_One_%282002%29.svg.png" group-title="Entertainment", BBC One 
 http://iptv1.privateiptv.club:80/random-robbie/random-robbie/807
 #EXTINF: -1 tvg-id="bbconelon.uk" tvg-name="UK: BBC One London (SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Bbc_london_logo.jpg" group-title="Entertainment", BBC One London (SD)
 http://iptv1.privateiptv.club:80/random-robbie/random-robbie/809

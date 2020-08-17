@@ -11,7 +11,7 @@ https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/ind
 https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/chunklist.m3u8
 #EXTINF: -1 tvg-id="BBC NEWS" tvg-name"BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/240px-BBC_News_2019.svg.png" group-title="News", BBC News 
 http://iptv1.privateiptv.club:80/random-robbie/random-robbie/825
-#EXTINF: -1 tvg-id="skynews.uk" tvg-name="Sky News UK" tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="News", Sky News
+#EXTINF: -1 tvg-id="skynews.uk" tvg-name="SKY NEWS" tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="News", Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
 #EXTINF: -1 tvg-id="CBNT" tvg-name="CBNT" tvg-chno="2" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cbc_british_columbia.jpg" group-title="News", CBC St. John's HD
 https://cbclivedai5-i.akamaihd.net/hls/live/567236/event2/CBNT/master5.m3u8

@@ -97,7 +97,7 @@ http://iptv1.privateiptv.club:80/random-robbie/random-robbie/809
 http://iptv1.privateiptv.club:80/random-robbie/random-robbie/810
 #EXTINF: -1 tvg-id="bbconescothd.uk" tvg-name="UK: BBC One Scotland (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/BBC_Scotland_channel_logo.jpg" group-title="Entertainment", BBC One Scotland (HD)
 http://iptv1.privateiptv.club:80/random-robbie/random-robbie/812
-#EXTINF: -1 tvg-id="bbctwoeng.uk" tvg-name="BBC Two England (HD)" tvg-logo="https://pbs.twimg.com/profile_images/1057914504321908736/06hkWvx__400x400.jpg" group-title="Entertainment", BBC Two England (HD)
+#EXTINF: -1 tvg-id="BBC Two Eng" tvg-name="BBC Two Eng" tvg-logo="https://pbs.twimg.com/profile_images/1057914504321908736/06hkWvx__400x400.jpg" group-title="Entertainment", BBC Two England (HD)
 http://iptv1.privateiptv.club:80/random-robbie/random-robbie/814
 #EXTINF: -1 tvg-id="s4c.uk" tvg-name="UK: S4C (SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/200px-S4C_logo_2014.svg.png" group-title="Entertainment", S4C (SD)
 http://iptv1.privateiptv.club:80/random-robbie/random-robbie/829

@@ -99,7 +99,7 @@ http://iptv1.privateiptv.club:80/random-robbie/random-robbie/810
 http://iptv1.privateiptv.club:80/random-robbie/random-robbie/812
 #EXTINF: -1 tvg-id="BBC Two Eng" tvg-name="BBC Two Eng" tvg-logo="https://pbs.twimg.com/profile_images/1057914504321908736/06hkWvx__400x400.jpg" group-title="Entertainment", BBC Two England (HD)
 http://iptv1.privateiptv.club:80/random-robbie/random-robbie/814
-#EXTINF: -1 tvg-id="s4c.uk" tvg-name="UK: S4C (SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/200px-S4C_logo_2014.svg.png" group-title="Entertainment", S4C (SD)
+#EXTINF: -1 tvg-id="S4C" tvg-name="S4C" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/200px-S4C_logo_2014.svg.png" group-title="Entertainment", S4C (SD)
 http://iptv1.privateiptv.club:80/random-robbie/random-robbie/829
 #EXTINF: -1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/amrita_tv-1.png" group-title="Entertainment", Amrita TV
 http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8

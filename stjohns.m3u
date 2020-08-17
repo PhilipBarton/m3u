@@ -504,10 +504,8 @@ https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 https://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF: -1 group-title="Kids", TCT Kids
 https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/playlist.m3u8
-#EXTINF: -1 tvg-id="cbbc.uk" tvg-name="UK: CBBC (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/CBBC.png/240px-CBBC.png" group-title="Kids", CBBC (HD)
+#EXTINF: -1 tvg-id="cbbc.uk" tvg-name="UK: CBBC " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/CBBC.png/240px-CBBC.png" group-title="Kids", CBBC 
 http://iptv1.privateiptv.club:80/random-robbie/random-robbie/821
-#EXTINF: -1 tvg-id="cbbc.uk" tvg-name="UK: CBBC (SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/CBBC.png/240px-CBBC.png" group-title="Kids", CBBC (SD)
-http://iptv1.privateiptv.club:80/random-robbie/random-robbie/822
 #EXTINF: -1 tvg-id="CBeebies UK" tvg-name="CBeebies UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/640px-CBeebies.svg.png" group-title="Kids", Cbeebies
 http://51.52.156.22:8888/http/003
 #EXTINF: -1 tvg-id="cbeebies.uk" tvg-name="UK: CBeebies (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/CBeebies.png/320px-CBeebies.png" group-title="Kids", CBeebies (HD)

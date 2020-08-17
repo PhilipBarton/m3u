@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF: -1, sportsnet Ontario 
+#EXTINF: -1, tvg-id="Sportsnet Ontario HD", CA  sportsnet Ontario 
 http://139.59.158.92:8567/sports2020/sportnetontario/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDIwIDg6Mzg6MjQgUE0maGFzaF92YWx1ZT1LdFFYV051ZXdJNWUrdmtVL1hwSHRnPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF: -1 tvg-id="CBC News Network" tvg-chno="1" tvg-logo="https://i.imgur.com/UPhXZbY.png" group-title="News", CBC News Network
 https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8

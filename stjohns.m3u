@@ -65,7 +65,7 @@ https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
 #EXTINF: -1 tvg-chno="395" group-title="News", RT
 http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
-#EXTINF: -1 tvg-id="CNN" tvg-name="CNN"  tvg-logo="http://channelguides.ca/images/cnn.png" group-title="News", CNN
+#EXTINF: -1 tvg-id="CNN HD" tvg-name="CNN HD"  tvg-logo="http://channelguides.ca/images/cnn.png" group-title="News", CNN
 https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
 #EXTINF: -1 tvg-id="ET Now-IN" tvg-name="ET NOW" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/et_now.jpg" group-title="News", ET Now
 http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8

@@ -21,9 +21,7 @@ https://itpolly.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8
 https://rt-usa-gd.secure2.footprint.net/1105_2500Kb.m3u8
 #EXTINF: -1 tvg-id="TheShoppingChannel.ca" tvg-chno="4" tvg-logo="http://channelguides.ca/images/tschd.png" group-title="News", The Shopping Channel
 https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF: -1 tvg-id="can-d.ca" tvg-chno="9" tvg-logo="http://channelguides.ca/images/cd.png" group-title="News", Canal D
-https://secure.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=6179379151001&secure=true&videoId=6179374211001
-#EXTINF: -1 tvg-chno="10" tvg-logo="http://channelguides.ca/images/ztele.png" group-title="News", Z Tele
+#EXTINF: -1 tvg-chno="10" tvg-="http://channelguides.ca/images/ztele.png" group-title="News", Z Tele
 https://secure.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=4830802072001&secure=true
 #EXTINF: -1 tvg-chno="25" tvg-logo="https://yt3.ggpht.com/a/AATXAJxexqeW3c4Q5KuV4OIgU49CRomLobNsCJOoORbqEQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="News", Law & Crime
 https://0e6490ecfe9b4c7696b00aa6767caa75.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_LawAndCrime/615951dd-aa19-40bb-9e8a-4a80bb667860/1.m3u8

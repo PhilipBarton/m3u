@@ -129,16 +129,10 @@ https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/index.m
 http://streamidvo.multitvsolution.in/MahaMovie-e/playlist.m3u8
 #EXTINF: -1 tvg-chno="314" group-title="Movies", Movie kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
-#EXTINF: -1 tvg-chno="315" group-title="Movies", Movies Kingdom
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 #EXTINF: -1 tvg-chno="386" group-title="Movies", RAI MOVIE
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF: -1 tvg-chno="387" group-title="Movies", Rai Movie 1
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8?sd=10&rebase=on
 #EXTINF: -1 tvg-chno="419" group-title="Movies", Sony Movies
 http://51.52.156.22:8888/http/009
-#EXTINF: -1 tvg-chno="420" group-title="Movies", Sony Movies
-http://178.159.5.210:1000/play/sonymovies/index.m3u8
 #EXTINF: -1 tvg-chno="430" group-title="Movies", Star Jalsha Movies
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 #EXTINF: -1 tvg-chno="431" group-title="Movies", Star Movies

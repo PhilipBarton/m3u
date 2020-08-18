@@ -139,12 +139,14 @@ https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
   #EXTINF: -1 group-title="Movies" tvg-id="bflix movies' tvg-name="bflix movies" tvg-chno="432", BFLIX MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
-  #EXTINF: -1 group-title="Movies" tvg-id="abzy movies' tvg-name="abzy movies" tvg-chno="433", Abzy Movies
-  https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8
-   #EXTINF:-1, MANORANJAN MOVIES https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8 
-   #EXTINF:-1, MAHA MOVIE https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
-    #EXTINF:-1, MULTIPLEX https://m-c29-j2apps.s.llnwi.net/hls/3223.Multiplex.in.m3u8 
-    #EXTINF:-1, MOVIE PLUS https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8
+  #EXTINF: -1 group-title="Movies" tvg-id="MANORANJAN MOVIES' tvg-name="MANORANJAN MOVIES" tvg-chno="433", MANORANJAN MOVIES
+   https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8 
+   #EXTINF: -1 group-title="Movies" tvg-id="MAHA MOVIE' tvg-name="MAHA MOVIE" tvg-chno="434", MANORANJAN MOVIES
+ https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+ #EXTINF: -1 group-title="Movies" tvg-id="MULTIPLEX' tvg-name="MULTIPLEX" tvg-chno="435", MULTIPLEX
+ https://m-c29-j2apps.s.llnwi.net/hls/3223.Multiplex.in.m3u8 
+  #EXTINF: -1 group-title="Movies" tvg-id="MOVIE PLUS' tvg-name="MOVIE PLUS" tvg-chno="436", MOVIE PLUS
+ https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8
 #EXTINF: -1 tvg-chno="432" group-title="Movies", STAR MOVIES FHD
 http://livecdnh1.tvanywhere.ae:80/hls/star_movies/04.m3u8
 #EXTINF: -1 tvg-chno="28" tvg-logo="http://docuramachannel.com/wp-content/uploads/2014/05/Docurama_Logo_smallest.jpg" group-title="Movies", Docurama

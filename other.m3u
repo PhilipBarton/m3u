@@ -1,5 +1,6 @@
 #EXTM3U 
-1,IN: &TV HD http://45.120.188.76:8080/0.ts 
+#EXTINF, &TV HD
+ http://45.120.188.76:8080/0.ts 
 
 1,USA: MTV http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8 
 

@@ -137,7 +137,8 @@ http://51.52.156.22:8888/http/009
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 #EXTINF: -1 tvg-chno="431" group-title="Movies", Star Movies
 http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
-  #EXTINF:-1,IN: BFLIX MOVIES https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8 
+  #EXTINF:-1:group-title="Movies" tvg-id="bflix movies' tvg-name="bflix movies" tvg-chno="432", BFLIX MOVIES
+  https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8 
   #EXTINF:-1,IN: ABZY MOVIES https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8
    #EXTINF:-1,IN: MANORANJAN MOVIES https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8 
    #EXTINF:-1,IN: MAHA MOVIE https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8

@@ -103,38 +103,6 @@ http://iptv1.privateiptv.club:80/random-robbie/random-robbie/829
 http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
 #EXTINF: -1 tvg-logo="https://w7.pngwing.com/pngs/266/337/png-transparent-dd-national-india-doordarshan-television-channel-india-television-emblem-label-thumbnail.png" group-title="Entertainment", DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
-#EXTINF: -1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/FLOWERS.jpg" group-title="Entertainment", Flowers TV
-http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/IKiNKDu.png" group-title="Entertainment", Imayam TV
-https://5c75277727cd1.streamlock.net:443/imayamtv/imayamtv/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/jai_hind_tv.png" group-title="Entertainment", Jaihind TV
-http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
-#EXTINF: -1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/janam_tv_in.png" group-title="Entertainment", Janam TV
-https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Kasthuri_TV.png" group-title="Entertainment", Kasthuri TV
-http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
-#EXTINF: -1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kaumudy_tv.png" group-title="Entertainment", Kaumudy TV
-https://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8
-#EXTINF: -1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Screenshot_1-1.png" group-title="Entertainment", Mazhavil Manorama HD
-http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/index.m3u8
-#EXTINF: -1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/mk_tv_in.png" group-title="Entertainment", MK TV
-http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/XMAqb0H.png" group-title="Entertainment", Peppers TV
-https://live.wmncdn.net/peppers/live.stream/index.m3u8
-#EXTINF: -1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/PRIMECANADA.png" group-title="Entertainment", Prime Canada TV
-http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/pLWxJqh.png" group-title="Entertainment", Sooriyan TV
-https://59d39900ebfb8.streamlock.net/Jaffnatv/Jaffnatv/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ExYV0nb.png" group-title="Entertainment", TET TV
-http://206.47.41.166:8080/1.m3u8
-#EXTINF: -1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/THIRUMALAI1.png" group-title="Entertainment", Thirumalai TV
-https://abcmedias.livewebcast.in/abcmedias/abcmediaslive/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/01/unnamed.jpg" group-title="Entertainment", Vasantham
-https://d39v9xz8f7n8tk.cloudfront.net//hls//vsnthmctv//master.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/YeR3mm9.png" group-title="Entertainment", Velicham
-https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/IgwQ7o5.png" group-title="Entertainment", Aathavan TV
-http://45.77.66.224:1935/athavantv/live/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF: -1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/dd_national.png" group-title="Entertainment", DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8?checkedby:iptvcat.com
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Qedd1Ow.png" group-title="Entertainment", Deepam TV
@@ -177,18 +145,6 @@ https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
 #EXTINF: -1 tvg-chno="432" group-title="Movies", STAR MOVIES FHD
 http://livecdnh1.tvanywhere.ae:80/hls/star_movies/04.m3u8
-#EXTINF: -1 tvg-chno="486" group-title="Movies", VOD : MUNAPIK (2016)
-http://103.91.144.230/ftpdata/Movies/Bollywood/2016/Munafik%20%282016%29/Munafik%20%282016%29%20%20Engsub%201080p.mp4
-#EXTINF: -1 tvg-id="amc.ca" tvg-chno="12" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/amc_us.jpg" group-title="Movies", AMC
-http://live.realiptv.to:25461/lauren/lauren/3132
-#EXTINF: -1 tvg-id="hs00s-hd.ca" tvg-chno="14" tvg-logo="http://channelguides.ca/images/hs00s.png" group-title="Movies", CA Hollywood Suite 2000's
-http://live.realiptv.to:25461/lauren/lauren/59882
-#EXTINF: -1 tvg-id="hs70s-hd.ca" tvg-chno="15" tvg-logo="http://channelguides.ca/images/hs70s.png" group-title="Movies", CA Hollywood Suite 70's
-http://live.realiptv.to:25461/lauren/lauren/59884
-#EXTINF: -1 tvg-id="hs80s-hd.ca" tvg-chno="16" tvg-logo="http://channelguides.ca/images/hs80s.png" group-title="Movies", CA Hollywood Suite 80's
-http://live.realiptv.to:25461/lauren/lauren/59883
-#EXTINF: -1 tvg-id="hs90s-hd.ca" tvg-chno="17" tvg-logo="http://channelguides.ca/images/hs90s.png" group-title="Movies", CA Hollywood Suite 90's
-http://live.realiptv.to:25461/lauren/lauren/3367
 #EXTINF: -1 tvg-chno="28" tvg-logo="http://docuramachannel.com/wp-content/uploads/2014/05/Docurama_Logo_smallest.jpg" group-title="Movies", Docurama
 https://yahoo-plex.amagi.tv/amRdirect/us_privacy=1---&did=05330384-0b37-5782-9b3c-e8cca033e171&dnt=0&X-Plex-Token=V7ahETykFvBFxnymMCty&channelId=5f170f01b898490041b49dd1/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/1920x1080_5491200/index.m3u8
 #EXTINF: -1 tvg-chno="29" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/The_Film_Detective_logo.png" group-title="Movies", The Film Detective
@@ -281,10 +237,6 @@ https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
 http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
 #EXTINF: -1 group-title="Music", Company TV
 http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/AX5NsOv.jpg" group-title="Music", Credo TV
-http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/AX5NsOv.jpg" group-title="Music", Credo TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$CredoTV/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF: -1 group-title="Music", DBM
 https://dbmtv.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
 #EXTINF: -1 group-title="Music", Deejay TV
@@ -458,36 +410,10 @@ https://strm.yandex.ru/kal/tvm_supres/tvm_supres0.m3u8
 https://de1se01.v2beat.live/playlist.m3u8
 #EXTINF: -1 tvg-id="viva-tv" tvg-name="VIVA TV" tvg-logo="https://i.imgur.com/qCLICfC.jpg" group-title="Music", VIVA TV
 https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
-#EXTINF: -1 tvg-id="Wanasah ARB" tvg-name="Wanasah ARB" tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="Music", Wanasah
-https://shls-wanasah-prod.shahid.net/wanasah-prod.m3u8
 #EXTINF: -1 tvg-logo="http://i.imgur.com/LgQBtTh.jpg" group-title="Music", Xalastra TV
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 #EXTINF: -1 tvg-id="ZOOM-IN" tvg-chno="40" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2016/06/27/Zoom.jpg" group-title="Music", Zoom
 http://itpolly.iptv.digijadoo.net/live/zoom/chunks.m3u8
-#EXTINF: -1 tvg-id="zhar-ptica" tvg-name="Жар Птица" tvg-logo="http://www.zhar-ptica.tv/sites/default/files/logo.png" group-title="Music", Жар Птица
-http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
-#EXTINF: -1 tvg-id="zhar-ptica" tvg-name="Жар Птица" group-title="Music", Жар Птица
-https://strm.yandex.ru/kal/firebird/firebird0.m3u8
-#EXTINF: -1 tvg-logo="http://www.ktrk.kg/images/channels/small/music.png" group-title="Music", КТРК Музыка
-http://onlinetv.ktrk.kg:1935/live/myStream2/playlist.m3u8
-#EXTINF: -1 group-title="Music", М1
-https://live.m2.tv/hls/stream.m3u8
-#EXTINF: -1 tvg-id="m2-ua" tvg-name="М2" tvg-logo="http://m2.tv/assets/logo-231ef42a791ac4e9287a94c6dd492ebd740ad3bea40f789cd489683b758ff65d.png" group-title="Music", М2
-https://live.m2.tv/hls3/stream.m3u8
-#EXTINF: -1 group-title="Music", Матур ТВ HD
-https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-#EXTINF: -1 tvg-id="muztv" tvg-name="Муз-ТВ" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/muz_tv.jpg" group-title="Music", Муз-ТВ
-https://strm.yandex.ru/kal/muztv_supres/muztv_supres0.m3u8
-#EXTINF: -1 tvg-id="radio-shanson" tvg-name="Радио Шансон" tvg-logo="http://lion-tv.com/uploads/posts/2016-09/1472964269_178.png" group-title="Music", Радио Шансон
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
-#EXTINF: -1 tvg-id="shanson-tv" tvg-name="Шансон-TB" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/shanson_tv.jpg" group-title="Music", Шансон-ТВ
-http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
-#EXTINF: -1 tvg-id="shanson-tv" tvg-name="Шансон-TB" tvg-logo="https://www.shanson.tv/image/logo_160120.png" group-title="Music", Шансон-ТВ
-http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
-#EXTINF: -1 tvg-id="shanson-tv" tvg-name="Шансон-TB" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/shanson_tv.jpg" group-title="Music", Шансон-ТВ
-http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
-#EXTINF: -1 tvg-id="shanson-tv" tvg-name="Шансон-TB" tvg-logo="https://www.shanson.tv/image/logo_160120.png" group-title="Music", Шансон-ТВ
-https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 #EXTINF: -1 tvg-id="Brit Asia TV" tvg-name="Brit Asia TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/brit_asia_tv.jpg" group-title="Music", BritAsia TV
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
 #EXTINF: -1 tvg-chno="108" group-title="Kids", Discovery Kids
@@ -524,24 +450,12 @@ https://ibckids-origin.ibctamil.com/transcode/ibckids_std.m3u8
 https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
 #EXTINF: -1 tvg-logo="data:image/png;base64,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" group-title="Kids", TVO KIDS
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/1597057029/1500k/1500k.m3u8
-#EXTINF: -1 tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" group-title="Sport", Bek Sports East
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" group-title="Sport", Bek Sports West
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://static1.squarespace.com/static/5a6f534f017db2d628751be1/t/5a6f5557652deada67290f54" group-title="Sport", Edge Sports
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="Sport", Fight Sports
-http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="Sport", Fight Sports
-http://210.210.155.35/uq2663/h/h05/index.m3u8
 #EXTINF: -1 tvg-id="fs1.us" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_lam_ar.jpg" group-title="Sport", FOX Sport HD 1
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF: -1 tvg-id="oly.us" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Sport", Olympic Channel (HD)
 https://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/1ZKpTT5.jpg" group-title="Sport", Sportskool
 https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
-#EXTINF: -1 group-title="Sport", Super Tennis
-https://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/jt6g1Jt.png" group-title="Sport", Horizon Sports
 https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
 #EXTINF: -1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Dsports-channel-hd-img_logo.jpg" group-title="Sport", D Sport
@@ -554,12 +468,6 @@ http://alphatv.site:25461/jose/jose/7
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="Sport", Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="Sport", ESPN 2
-https://gma2.blab.email/espn2.m3u8
-#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="Sport", ESPN News
-https://gma2.blab.email/espnews.m3u8
-#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="Sport", ESPN U
-https://gma2.blab.email/espnu.m3u8
 #EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="Sport", Geo Super sports
 https://jk3lz82elw79-hls-live.5centscdn.com/GeoNews/0ce3266d4eb71ad50f7a90aee6d21dcd.sdp/playlist.m3u8
 #EXTINF: -1 tvg-id="tenn.us" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tennis_channel.jpg" group-title="Sport", Tennis Channel

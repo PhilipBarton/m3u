@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF: -1 tvg-id="CBC News Network" tvg-chno="1" tvg-logo="https://i.imgur.com/UPhXZbY.png" group-title="News", CBC News Network
+#EXTINF: -1 tvg-id="CBC News Network" url-epg="http://m3u4u.com/m3u/j67zn633r2u417wyd1wq" tvg-chno="1" tvg-logo="https://i.imgur.com/UPhXZbY.png" group-title="News", CBC News Network
 https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8|User-Agent=VLC
 #EXTINF: -1 tvg-id="Times Now IN" tvg-name="Times Now IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Screenshot_1-8.png" group-title="News", Times Now IN
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8

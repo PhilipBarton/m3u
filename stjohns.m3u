@@ -143,6 +143,12 @@ http://178.159.5.210:1000/play/sonymovies/index.m3u8
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 #EXTINF: -1 tvg-chno="431" group-title="Movies", Star Movies
 http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
+  #EXTINF:-1,IN: BFLIX MOVIES https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8 
+  #EXTINF:-1,IN: ABZY MOVIES https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8
+   #EXTINF:-1,IN: MANORANJAN MOVIES https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8 
+   #EXTINF:-1,IN: MAHA MOVIE https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+    #EXTINF:-1,IN: MULTIPLEX https://m-c29-j2apps.s.llnwi.net/hls/3223.Multiplex.in.m3u8 
+    #EXTINF:-1,IN: MOVIE PLUS https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8
 #EXTINF: -1 tvg-chno="432" group-title="Movies", STAR MOVIES FHD
 http://livecdnh1.tvanywhere.ae:80/hls/star_movies/04.m3u8
 #EXTINF: -1 tvg-chno="28" tvg-logo="http://docuramachannel.com/wp-content/uploads/2014/05/Docurama_Logo_smallest.jpg" group-title="Movies", Docurama

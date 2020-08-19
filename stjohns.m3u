@@ -51,8 +51,6 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiam
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-chno="24" tvg-id="ChannelNewsAsiaInternational(src07).in(m3u4u)" tvg-name="Channel News Asia " tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png" group-title="News",Channel News Asia 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-chno="25" tvg-id="DDNews(src07).in(m3u4u)" tvg-name="DD News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png" group-title="News",DD News
-http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 #EXTINF:-1 tvg-chno="29" tvg-id="euronews(French).ca(m3u4u)" tvg-name="Euronews" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s34292_dark_360w_270h.png" group-title="News",Euronews
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
 #EXTINF:-1 tvg-chno="27" tvg-id="KairaliNews(src07).in(m3u4u)" tvg-name="Kairali News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_People_TV.PNG" group-title="News",Kairali News
@@ -255,10 +253,6 @@ http://iptv1.privateiptv.club:80/random-robbie/random-robbie/814
 http://iptv1.privateiptv.club:80/random-robbie/random-robbie/829
 #EXTINF:-1 tvg-chno="50" tvg-id="AmritaTV(src07).in(m3u4u)" tvg-name="Amrita TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Amrita_TV.png" group-title="Entertainment",Amrita TV
 http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
-#EXTINF:-1 tvg-chno="51" tvg-id="DDNational(src07).in(m3u4u)" tvg-name="DD National" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Entertainment",DD National
-http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DD National" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/dd_national.png" group-title="Entertainment",DD National
-http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-chno="52" tvg-id="(no tvg-id)(m3u4u)" tvg-name="Deepam TV" tvg-logo="https://i.imgur.com/Qedd1Ow.png" group-title="Entertainment",Deepam TV
 http://95.217.218.87/deepamtvhls/live.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-chno="54" tvg-id="TLC.uk(m3u4u)" tvg-name="TLC HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s79654_dark_360w_270h.png" group-title="Entertainment",TLC HD

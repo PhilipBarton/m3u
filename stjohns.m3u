@@ -51,6 +51,8 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiam
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-chno="24" tvg-id="ChannelNewsAsiaInternational(src07).in(m3u4u)" tvg-name="Channel News Asia " tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png" group-title="News",Channel News Asia 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-chno="25" tvg-id="DDNews(src07).in(m3u4u)" tvg-name="DD News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png" group-title="News",DD News
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 #EXTINF:-1 tvg-chno="29" tvg-id="euronews(French).ca(m3u4u)" tvg-name="Euronews" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s34292_dark_360w_270h.png" group-title="News",Euronews
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
 #EXTINF:-1 tvg-chno="27" tvg-id="KairaliNews(src07).in(m3u4u)" tvg-name="Kairali News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_People_TV.PNG" group-title="News",Kairali News
@@ -235,19 +237,19 @@ https://cdn3.wowza.com/1/ZE9CSWR3ZDV2WEFQ/VENORDlI/hls/fvgl6br7/2728/chunklist.m
 http://live.realiptv.to:25461/lauren/lauren/3140
 #EXTINF:-1 tvg-chno="41" tvg-id="BUZZR.us(m3u4u)" tvg-name="Buzzr" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s93430_dark_360w_270h.png" group-title="Entertainment",Buzzr
 https://buzzrota-web.amagi.tv/playlist480.m3u8
-#EXTINF:-1 tvg-chno="42" tvg-id="BBCAlba.uk(m3u4u)" tvg-name="UK: BBC ALBA (SD)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s60940_dark_360w_270h.png" group-title="Entertainment",UK: BBC ALBA (SD)
+#EXTINF:-1 tvg-chno="42" tvg-id="BBCAlba.uk(m3u4u)" tvg-name="BBC ALBA " tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s60940_dark_360w_270h.png" group-title="Entertainment",BBC ALBA 
 http://iptv1.privateiptv.club:80/random-robbie/random-robbie/828
 #EXTINF:-1 tvg-chno="43" tvg-id="BBCFour.uk(m3u4u)" tvg-name="BBC Four" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s83282_dark_360w_270h.png" group-title="Entertainment",BBC Four
-http://iptv1.privateiptv.club:80/random-robbie/random-robbie/819
+https://edge-1183-ch-gv.filmon.com/live/103.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe042a98f64ed9a798c44b788fd0eec952fc112d125ca435ef27c0cfd36cc68d3bae453a223ba2bf80e7bc9cfefe1073e1b32896bf868bb5ce5e380aa54e57a3d5359eb86628b88f880f840bd35625a517df969e122ddef838010a253b137922093fbe0f209bd3d5b56a8aec03ba5abb5cf4264dd2ce21ddd525b118f62e99e7848bc00b217a67e5c3123638b1aa5f807f
 #EXTINF:-1 tvg-chno="44" tvg-id="BBCOne.uk(m3u4u)" tvg-name="BBC One" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s17153_dark_360w_270h.png" group-title="Entertainment",BBC One
 http://iptv1.privateiptv.club:80/random-robbie/random-robbie/807
-#EXTINF:-1 tvg-chno="45" tvg-id="BBCOne(London).uk(m3u4u)" tvg-name="UK: BBC One London (SD)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s87840_dark_360w_270h.png" group-title="Entertainment",UK: BBC One London (SD)
+#EXTINF:-1 tvg-chno="45" tvg-id="BBCOne(London).uk(m3u4u)" tvg-name="BBC One London " tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s87840_dark_360w_270h.png" group-title="Entertainment",BBC One London 
 http://iptv1.privateiptv.club:80/random-robbie/random-robbie/809
-#EXTINF:-1 tvg-chno="46" tvg-id="BBCOneNI(src02).uk(m3u4u)" tvg-name="UK: BBC One Northern Ireland (HD)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2081.png" group-title="Entertainment",UK: BBC One Northern Ireland (HD)
+#EXTINF:-1 tvg-chno="46" tvg-id="BBCOneNI(src02).uk(m3u4u)" tvg-name="BBC One Northern Ireland " tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2081.png" group-title="Entertainment",BBC One Northern Ireland 
 http://iptv1.privateiptv.club:80/random-robbie/random-robbie/810
-#EXTINF:-1 tvg-chno="47" tvg-id="BBCOneScotland.uk(m3u4u)" tvg-name="UK: BBC One Scotland (HD)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s21439_dark_360w_270h.png" group-title="Entertainment",UK: BBC One Scotland (HD)
+#EXTINF:-1 tvg-chno="47" tvg-id="BBCOneScotland.uk(m3u4u)" tvg-name="BBC One Scotland " tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s21439_dark_360w_270h.png" group-title="Entertainment",BBC One Scotland 
 http://iptv1.privateiptv.club:80/random-robbie/random-robbie/812
-#EXTINF:-1 tvg-chno="48" tvg-id="BBC2(England).uk(m3u4u)" tvg-name="BBC Two Eng" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s68113_dark_360w_270h.png" group-title="Entertainment",BBC Two Eng
+#EXTINF:-1 tvg-chno="48" tvg-id="BBC2(England).uk(m3u4u)" tvg-name="BBC Two England" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s68113_dark_360w_270h.png" group-title="Entertainment",BBC Two England
 http://iptv1.privateiptv.club:80/random-robbie/random-robbie/814
 #EXTINF:-1 tvg-chno="49" tvg-id="S4C.uk(m3u4u)" tvg-name="S4C" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s25342_dark_360w_270h.png" group-title="Entertainment",S4C
 http://iptv1.privateiptv.club:80/random-robbie/random-robbie/829
@@ -337,6 +339,8 @@ https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/segli
 https://cdn.jpus206.jpnettv.live/jptv/janimax_720/index.m3u8
 #EXTINF:-1 tvg-chno="78" tvg-id="(no tvg-id)(m3u4u)" tvg-name="Aniplus" tvg-logo="" group-title="Kids",Aniplus
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="PBS Kids" tvg-logo="" group-title="Kids",PBS Kids
+https://live-cdn.pbskids.org/out/u/aim/wnet_2.m3u8
 #EXTINF:-1 tvg-chno="84" tvg-id="CBBC.uk(m3u4u)" tvg-name="CBBC" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s83281_dark_360w_270h.png" group-title="Kids",CBBC
 http://iptv1.privateiptv.club:80/random-robbie/random-robbie/821
 #EXTINF:-1 tvg-chno="85" tvg-id="CBeebies(src01).uk(m3u4u)" tvg-name="CBeebies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/640px-CBeebies.svg.png" group-title="Kids",CBeebies
